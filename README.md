@@ -15,7 +15,7 @@ Selamlar,bugün php'ye başlamışlığımın şerefine ilk scriptimi yaptım(fa
 İçine reklam vs koyup parada kazanabilirsiniz herşey size bağlı ama Copyright kısmını silmezseniz sevinirim.
 
 ## Görseller-
-![resim](https://hizliresim.com/dnZfsx)
+[Resim İçin Tıkla](https://hizliresim.com/dnZfsx)
 
 ## Kurulum-
 İndirdiğiniz dosyaları hosting'in içine atın.
