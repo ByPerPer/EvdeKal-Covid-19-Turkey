@@ -3,7 +3,7 @@ Covid-19 Türkiye toplam istatistiklerini gösteren bir web projesi
 
 Selamlar,bugün php'ye başlamışlığımın şerefine ilk scriptimi yaptım(fake scriptler hariç-githubda bulabilirsiniz.)ve güzelde olduğunu düşünüyorum.
 
-##Ne İşe Yarıyor? Özellikleri neler? -
+## Ne İşe Yarıyor? Özellikleri neler? -
 -Sağlık Bakanlığı'dan güncel verileri çekip yazar.
 -Türkiye güncel koronavirüs tablosunu yazar.(Toplam durum)
 -Sağlık Bakanlığı'na bağlı olduğu için onlar ne zaman verileri girerse siteyede o zaman düşüyor :)
@@ -11,13 +11,13 @@ Selamlar,bugün php'ye başlamışlığımın şerefine ilk scriptimi yaptım(fa
 -Mobil uyumludur.
 -Basit kurulum.
 
-###NOT:
+### NOT:
 İçine reklam vs koyup parada kazanabilirsiniz herşey size bağlı ama Copyright kısmını silmezseniz sevinirim.
 
-##Görseller-
+## Görseller-
 ![resim](https://hizliresim.com/dnZfsx)
 
-##Kurulum-
+## Kurulum-
 İndirdiğiniz dosyaları hosting'in içine atın.
 
 
